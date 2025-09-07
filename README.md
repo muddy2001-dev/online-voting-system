@@ -34,5 +34,5 @@ This is a  **Online Voting System** that allows registered users to vote in elec
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/online-voting-system.git
+   git clone https://git@github.com:muddy2001-dev/online-voting-system.git
    cd online-voting-system
