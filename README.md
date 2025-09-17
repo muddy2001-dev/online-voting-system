@@ -31,8 +31,38 @@ This is a  **Online Voting System** that allows registered users to vote in elec
 
 ## 🚀 How to Run
 
-1. **Clone the repository**
+Import the database:
 
-   ```bash
-   git clone https://git@github.com:muddy2001-dev/online-voting-system.git
-   cd online-voting-system
+Run the file voting.sql in your MySQL server.
+
+Configure database connection:
+
+Edit database.php and update your MySQL username, password, and DB name.
+
+Place the project in your local server root directory:
+
+C:\xampp\htdocs\voting\
+
+
+Start your local server (XAMPP/WAMP/Laragon).
+
+Open the system in your browser:
+
+Admin Login: http://localhost/voting/admin/index.php 
+
+Patient Login: http://localhost/voting/voter/welcome.php 
+
+🔑 Demo Credentials
+
+👨‍💼 Admin Login
+
+Email: admin@example.com
+
+Password: Admin@123
+
+👩‍⚕️ Voter Login
+
+Reg. No.: WSS-2025-09289
+
+Date Of Birth: 2025-09-17
+
