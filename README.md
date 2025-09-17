@@ -58,7 +58,7 @@ Patient Login: http://localhost/voting/voter/welcome.php
 
 Email: admin@example.com
 
-Password: Admin@123
+Password: Asad@123
 
 👩‍⚕️ Voter Login
 
